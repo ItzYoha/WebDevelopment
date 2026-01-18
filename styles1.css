@@ -34,7 +34,10 @@ body {
       font-weight: bold;
     }
 
-    input[type="text"], input[type="email"], textarea, select {
+    input[type="text"],
+    input[type="email"],
+    textarea,
+    select {
       width: 100%;
       padding: 8px;
       margin-top: 5px;
@@ -50,7 +53,8 @@ body {
       border-radius: 4px;
     }
 
-    input[type="radio"], input[type="checkbox"] {
+    input[type="radio"],
+    input[type="checkbox"] {
       margin-right: 5px;
     }
 
@@ -74,12 +78,6 @@ body {
     }
 
     .options {
-      background: #f1f1f1;
-      padding: 10px;
-      border-radius: 6px;
-    }
-
-    .checkboxes {
       background: #f1f1f1;
       padding: 10px;
       border-radius: 6px;
